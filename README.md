@@ -1,62 +1,33 @@
-                             Personal Portfolio Website
-Project Overview:
-This project is a responsive personal portfolio website created using HTML and CSS.
-The portfolio showcases a developer’s profile, projects, and contact information through a clean and simple multi-page layout.
-The website is designed as part of an internship / academic task to demonstrate front-end web development skills.
+PERSONAL PORTFOLIO WEBPAGE
 
-Objective:
-To design and develop a basic personal portfolio website that:
-Showcases developer projects
-Uses proper navigation
-Works well on all screen sizes
-Uses only core web technologies (HTML & CSS)
+COMPANY: CODETECHIT SOLUTIONS
 
-Technologies Used:
-HTML5 – Structure of the website
-CSS3 – Styling and responsive design
+NAME: Surajkumar Rathod
 
-Project Structure:
-portfolio/
-│── index.html      → Home page
-│── about.html      → About page
-│── projects.html   → Projects page
-│── contact.html    → Contact page
-│── style.css       → Common styling file
-│── README.md       → Project documentation
+INTERN ID: CTIS1179
 
-Features:
-Responsive design (mobile, tablet, desktop)
-Multi-page navigation (Home, About, Projects, Contact)
-Clean and simple user interface
-Project showcase section
-Background image on home page
-Easy to customize and extend
+DOMAIN: FRONTEND WEB DEVELOPMENT
 
-Website Pages:
-Home: Introduction and quick overview
-About: Developer information and skills
-Projects: List of completed projects
-Contact: Email and phone details
+DURATION: 4 WEEKS
 
-How to Run the Project:
-Download or clone this repository
-Open the project folder
-Double-click index.html
-The website will open in your browser
-No additional setup required.
+MENTOR: NEELA SANTHOSH
 
-Preview:
-The portfolio includes a visually appealing home section with a background image and a consistent navigation bar across all pages.
 
-Learning Outcomes:
-Understanding HTML page structure
-Creating responsive layouts using CSS
-Implementing multi-page navigation
-Organizing a front-end project properly
+DESCRIPTION: A Personal Portfolio Webpage is a digital space that represents an individual’s identity, skills, and professional journey in a clear and visually appealing way. It acts as an online introduction, allowing visitors to learn more about who the person is, what they do, and the kind of work they are capable of. In today’s digital world, a portfolio webpage has become an essential tool for students, professionals, freelancers, and creatives to showcase their talents and make a strong first impression.
 
-Author:
-Suraj Rathod
+The main purpose of a personal portfolio webpage is to present information in a simple yet engaging manner. It typically includes sections such as an introduction, about me, skills, projects, resume, and contact details. The homepage often welcomes visitors with a brief overview, giving them a quick idea of the person’s background and interests. This helps visitors connect instantly and encourages them to explore further.
 
-License:
-This project is created for educational and internship purposes and is free to use for learning.
+The “About Me” section allows the individual to share their story in a more personal way. It highlights their education, experience, interests, and goals, making the portfolio feel authentic and relatable. Instead of just listing qualifications, this section helps express personality and passion, which is often what sets a portfolio apart from a traditional resume.
+
+Another important part of the portfolio is the projects or work section. Here, the individual can display their best work along with descriptions, images, or links. This section gives visitors a practical understanding of the person’s skills and creativity. Whether it is web development, design, writing, or any other field, showcasing real work builds credibility and trust.
+
+The skills section highlights both technical and soft skills in a clear and organized way. It helps visitors quickly understand what tools, technologies, or abilities the person is confident in. Some portfolios also include progress bars or icons to make this section visually attractive and easy to scan.
+
+A personal portfolio webpage is designed to be responsive and accessible across all devices, including smartphones, tablets, and desktops. This ensures that visitors have a smooth experience regardless of how they access the site. Clean layout, readable fonts, and balanced colors contribute to a professional and welcoming appearance.
+
+The contact section plays a key role by allowing visitors to reach out easily. It may include a contact form, email address, or links to social media profiles. This makes communication simple and opens opportunities for collaboration, employment, or networking.
+
+In conclusion, a personal portfolio webpage is more than just an online resume. It is a reflection of an individual’s personality, skills, and ambition. By combining creativity, clarity, and usability, a well-designed portfolio helps individuals stand out, build a strong online presence, and create meaningful professional connections.
+
+OUTPUT:
 
